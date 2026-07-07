@@ -1,0 +1,22 @@
+設定メモ
+
+【設定済み】
+LINE友だち追加URL:
+https://lin.ee/npg2S7P
+
+回答フォームURL:
+https://docs.google.com/forms/d/e/1FAIpQLSdnRG0Eeu9Q5OIFD3rfV1oj0PYPzopv1lt3DOuifyn30CAU0w/viewform?usp=publish-editor
+
+【あとで設定するもの】
+Googleクチコミ投稿用URL:
+未設定
+
+index.html のこの部分に貼り付けてください。
+
+const GOOGLE_REVIEW_URL = "";
+
+例:
+const GOOGLE_REVIEW_URL = "https://g.page/r/xxxxxxxx/review";
+
+【QRコードにするURL】
+GitHub Pagesで公開された index.html のURLをQRコード化してください。
